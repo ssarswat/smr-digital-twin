@@ -18,3 +18,15 @@ This project combines real-time simulation, predictive analytics, visualization 
 - Interactive digital twin visualization
 - Cloud-ready architecture
 - Extensible AI assistant for operator support
+
+## Technology Stack
+
+| Category | Technologies |
+|----------|--------------|
+| Frontend | React, Tailwind CSS |
+| Backend | Python, FastAPI |
+| AI/ML | OpenAI APIs, Scikit-learn, Pandas |
+| Visualization | Recharts, D3.js |
+| Simulation | Physics-based Reactor Models |
+| Database | PostgreSQL / SQLite |
+| Deployment | Docker, Azure, AWS |
