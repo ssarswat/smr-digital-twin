@@ -7,3 +7,14 @@
 The SMR Digital Twin aims to demonstrate how Artificial Intelligence, Digital Twins and modern cloud technologies can enhance the safety, reliability, efficiency and operational awareness of next-generation nuclear power systems.
 
 This project combines real-time simulation, predictive analytics, visualization and AI-assisted decision support into a single integrated platform.
+
+## Key Features
+
+- Real-time reactor simulation
+- AI-powered anomaly detection
+- Predictive maintenance analytics
+- Operational dashboard
+- Safety monitoring
+- Interactive digital twin visualization
+- Cloud-ready architecture
+- Extensible AI assistant for operator support
