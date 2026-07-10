@@ -30,3 +30,25 @@ This project combines real-time simulation, predictive analytics, visualization 
 | Simulation | Physics-based Reactor Models |
 | Database | PostgreSQL / SQLite |
 | Deployment | Docker, Azure, AWS |
+
+## Roadmap
+
+### Phase 1 – Foundation
+- [x] Repository created
+- [x] Project vision defined
+- [x] Core feature set identified
+
+### Phase 2 – User Interface
+- [ ] Interactive reactor dashboard
+- [ ] Real-time parameter visualization
+- [ ] Alarm and notification panel
+
+### Phase 3 – AI Capabilities
+- [ ] Predictive maintenance
+- [ ] Anomaly detection
+- [ ] AI-assisted operator recommendations
+
+### Phase 4 – Deployment
+- [ ] Docker deployment
+- [ ] Azure hosting
+- [ ] AWS deployment
