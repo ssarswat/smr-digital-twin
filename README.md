@@ -8,6 +8,10 @@ The SMR Digital Twin aims to demonstrate how Artificial Intelligence, Digital Tw
 
 This project combines real-time simulation, predictive analytics, visualization and AI-assisted decision support into a single integrated platform.
 
+## System Architecture
+
+![SMR Digital Twin Architecture](architecture-v1.png)
+
 ## Key Features
 
 - Real-time reactor simulation
